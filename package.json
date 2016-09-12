@@ -27,6 +27,9 @@
     "./lib/locales": false,
     "./lib/locales.js": false
   },
+  "react-native": {
+    "./lib/locales": "./lib/locales.js"
+  },
   "dependencies": {
     "intl-messageformat": "1.3.0"
   },
